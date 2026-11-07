@@ -1,0 +1,6 @@
+{
+  "name": "দিগন্ত বার্তা - Diganta Barta",
+  "description": "বাংলাদেশের শীর্ষস্থানীয় ডিজিটাল সংবাদ পোর্টাল — সত্যের সন্ধানে, আগামীর পথে। জাতীয়, আন্তর্জাতিক, রাজনীতি, অর্থনীতি ও জেলাভিত্তিক সত্যনিষ্ঠ সংবাদ ও এআই চালিত বার্তা কক্ষ।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
